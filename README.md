@@ -1,10 +1,6 @@
-#Songs finder by Artist
+# Songs finder by Artist
 
 This project help you to find the letter of your favorite song !
-
-
-
-
 
 # Getting Started with Create React App
 
