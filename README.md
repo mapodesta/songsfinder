@@ -1,3 +1,11 @@
+#Songs finder by Artist
+
+This project help you to find the letter of your favorite song !
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
